@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from "react";
 import { Settings, Description as FileIcon, Code, MoreVert, ChevronLeft, ChevronRight } from "@mui/icons-material";
 import UploadFile from "./uploadfile";
