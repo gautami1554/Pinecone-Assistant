@@ -3,8 +3,7 @@
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build": "npm run generate-html && vite build",
-    "generate-html": "mkdir -p dist && cp index.html dist/"
+    "build": "vite build"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
