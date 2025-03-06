@@ -1,5 +1,3 @@
-"use client"
-
 import { useState, useEffect, useRef } from "react"
 import Dropdown from "./dropdown"
 import { KeyboardArrowUp, DeleteOutline } from "@mui/icons-material"
