@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useRef } from "react"
 import { useDropzone } from "react-dropzone"
 import { CloudUpload, InsertDriveFile, Close } from "@mui/icons-material"
