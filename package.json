@@ -1,8 +1,4 @@
  {
-  "name": "myapp",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
@@ -24,4 +20,5 @@
     "react-dom": "^19.0.0",
     "styled-components": "^6.1.15"
   }
-}}
+}
+}
